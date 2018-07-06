@@ -3,7 +3,7 @@
 ![Announcement](https://i.imgur.com/U3Dkmzl.png)
 
 # Transcript
-*thanks to [@nikolassing](https://github.com/nicolassing) :gem:*
+*thanks to [@nicolassing](https://github.com/nicolassing) :gem:*
 
 >David L. : Quel est le plus grand problème auquel votre équipe à du faire face et comment l'avez vous résolu ?
 
